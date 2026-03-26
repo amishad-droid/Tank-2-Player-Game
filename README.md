@@ -1,4 +1,4 @@
-# Tank-2-Player-Game
+# Tank 2 Player-Game
 🎮 2-player tank battle game playable in any browser — no installs needed
 A two-player tank battle game built with vanilla HTML, CSS, and JavaScript. 
 No libraries, no installs just open the file in a browser and play.
